@@ -16,6 +16,7 @@ A lightweight Ubuntu **docker** with toolkit for compressing and decompressing f
  - **sharutils**
  - **unrar**
  - **kgb**
+ - **lrzip**
 
 
 ### Usage
