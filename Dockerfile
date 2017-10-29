@@ -14,4 +14,4 @@ RUN apt-get update && apt-get install -y \
     sharutils \
     unrar \
     kgb \
-	&& rm -rf /var/lib/apt/lists/*
+&& rm -rf /var/lib/apt/lists/*
